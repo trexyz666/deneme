@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="-1" group="IPTV_26_EKiM_GUNCEL_LiSTE" logo="https://1.bp.blogspot.com/-wHHT5ba6P3c/X3dWt3dEuSI/AAAAAAAAPEU/xou6ul6GKcMQn9-0SjVCw3WbCgnPfbf1gCLcBGAsYHQ/s320/duyuru2020.png", SUPERSATFORUM TEASER
+#EXTINF:0 type="stream" channelId="-1" group="IPTV_01_KASIM_2021_GUNCEL_LiSTE" logo="https://1.bp.blogspot.com/-wHHT5ba6P3c/X3dWt3dEuSI/AAAAAAAAPEU/xou6ul6GKcMQn9-0SjVCw3WbCgnPfbf1gCLcBGAsYHQ/s320/duyuru2020.png", SUPERSATFORUM TEASER
 https://www.youtube.com/watch?v=qvQWImapB78
 #EXTINF:0 type="stream" channelId="1056" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-A7jlB-1wNCg/YI3eP4T69AI/AAAAAAAATRc/RahKYoYUqN0gBGptWOjet7jnYp4hQN_wACLcBGAsYHQ/s0/TRT1%2B-%2BKopya.png", TRT1-supersatforum.com
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -31,16 +31,16 @@ http://antalya.tvizlehd.com/live/showtv.m3u8
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 type="stream" channelId="3119" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-IFJJtdqvx9M/YI3eO_khbTI/AAAAAAAATRI/f0PKzmJl_YURx2cHfdzWcl7YdrphjKNkwCLcBGAsYHQ/s0/SHOW%2B-%2BKopya.png", SHOW TV FHD
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:0 type="stream" channelId="1044" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D SD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/66.m3u8
+#EXTINF:0 type="stream" channelId="1044" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3077" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D HD
 https://mn-nl.mncdn.com/blutv_kanald_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 type="stream" channelId="3077" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-dHogV1SHMHc/YI3eO_hCxYI/AAAAAAAATRE/hq72CRTA0CgGu9fSGm-dZM3liELp_DllwCLcBGAsYHQ/s0/KANALD%2B-%2BKopya.png", KANAL D HD YEDEK
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/kanald.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 SD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
-#EXTINF:0 type="stream" channelId="1076" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 SD YEDEK
 http://antalya.tvizlehd.com/live/tv8.m3u8
+#EXTINF:0 type="stream" channelId="1076" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 FHD
 http://213.115.248.46:9000/TR_-_TV_8_HD_PLUS/index.m3u8
 #EXTINF:0 type="stream" channelId="3991" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-f_Y8Igvh2NY/YI3eQBolpXI/AAAAAAAATRg/HQFrcs6G5Lo5UJ4jc313jhqO6w1wvClUQCLcBGAsYHQ/s0/TV85%2B-%2BKopya.png", TV8 BUCUK HD
@@ -50,7 +50,7 @@ http://213.115.248.46:9000/TR_-_TV_8.5_HD_PLUS/index.m3u8
 #EXTINF:0 type="stream" channelId="1061" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH TV
 http://antalya.tvizlehd.com/live/flashtv.m3u8
 #EXTINF:0 type="stream" channelId="1061" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjwLa5UB-CXOFAh3l2cQTfhZ1OoL-em4nRCdb1xkqN34enfAvBGmb-QUu2T8S8B2Wa2AR09KgKXnHhkaeuSeGD_CW03ARDdcaLrZfRbsxJIdRPnXMURm19pt2_gjApTMfXJ4YwUbJxM99QYEATeIsymoX_Jb_T1niIOl8JwMvLmmzgw6ErLryW7lb2AGw", FLASH TV HD
-https://www.guventechnology.com:19360/flashtv2/flashtv2.m3u8
+https://www.guventechnology.com:19360/flashtvnew/flashtvnew.m3u8
 #EXTINF:0 type="stream" channelId="18" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV HD
 https://mn-nl.mncdn.com/blutv_beyaztv2/live.m3u8
 #EXTINF:0 type="stream" channelId="18" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV HD YEDEK
@@ -65,8 +65,6 @@ https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 type="stream" channelId="3992" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-QvOG8_nCdQ4/YI3eM6oZyCI/AAAAAAAATQo/XHbRVV4wJZYZxhMNu4tOSCnuwjUzbci-ACLcBGAsYHQ/s0/A2%2B-%2BKopya.png", A2 SD
 http://europe2.livetv.az/turkey/a2tv_turk_sd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="3992" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-QvOG8_nCdQ4/YI3eM6oZyCI/AAAAAAAATQo/XHbRVV4wJZYZxhMNu4tOSCnuwjUzbci-ACLcBGAsYHQ/s0/A2%2B-%2BKopya.png", A2 TR YEDEK
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/89.m3u8
 #EXTINF:0 type="stream" channelId="4632" group="SUPERSATFORUM_ULUSAL_KANALLAR", SHOWMAX
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4632" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-El44DZPT2SY/YI3ePMmRmxI/AAAAAAAATRM/T0v3L4CuA1UDBodg64IOflxQiFJh5ISgwCLcBGAsYHQ/s0/SHOWMAX%2B-%2BKopya.png", SHOWMAX YEDEK
@@ -84,7 +82,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da923", TV4 FHD
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 #EXTINF:0 type="stream" channelId="978" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-6h-LT1zzUgI/YI3eN15h1XI/AAAAAAAATQw/hl9keKfUXjw5592EEp17PIMxBxMDOGh3QCLcBGAsYHQ/s0/DMAX%2B-%2BKopya.png", D MAX HD
-https://mn-nl.mncdn.com/blutv_dmax_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_dmax2/live.m3u8
 #EXTINF:0 type="stream" channelId="978" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-6h-LT1zzUgI/YI3eN15h1XI/AAAAAAAATQw/hl9keKfUXjw5592EEp17PIMxBxMDOGh3QCLcBGAsYHQ/s0/DMAX%2B-%2BKopya.png", D MAX SD
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:0 type="stream" channelId="2231" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-6h-LT1zzUgI/YI3eN15h1XI/AAAAAAAATQw/hl9keKfUXjw5592EEp17PIMxBxMDOGh3QCLcBGAsYHQ/s0/DMAX%2B-%2BKopya.png", D MAX FHD
@@ -92,11 +90,9 @@ https://tv.ensonhaber.com/tv/tr/dmax/index.m3u8
 #EXTINF:0 type="stream" channelId="67" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-rF8EW6WaoJk/YI3ePh7rpBI/AAAAAAAATRY/VXHq1WC6xEkOafhpgXqRkzciX75BVVhzwCLcBGAsYHQ/s0/TLC.png", TLC SD
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1040" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-rF8EW6WaoJk/YI3ePh7rpBI/AAAAAAAATRY/VXHq1WC6xEkOafhpgXqRkzciX75BVVhzwCLcBGAsYHQ/s0/TLC.png", TLC HD
-https://mn-nl.mncdn.com/blutv_tlc_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 type="stream" channelId="1040" group="SUPERSATFORUM_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-rF8EW6WaoJk/YI3ePh7rpBI/AAAAAAAATRY/VXHq1WC6xEkOafhpgXqRkzciX75BVVhzwCLcBGAsYHQ/s0/TLC.png", TLC HD YEDEK
+https://mn-nl.mncdn.com/blutv_tlc2/live.m3u8
+#EXTINF:0 type="stream" channelId="1040" group="SUPERSATFORUM_ULUSAL_KANALLAR", TLC HD YEDEK
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhjQDOESjtqq2dxRpk9qZFxktvFRqBPEuiZ0SvPe5DxXEAV1OK_cDroIr1VQPtSgMhj2z1YXIaQdT1A9gaa7Iq0VhGRns7artco8LpuUUlpxA-JPyd7sns2M_4LbfoR-pHE22qrwkGtGGN82hGei_ujD6o8LYuYCMaFM2-SfY8nTu-3stSSJFUdnfZ-tA=w87-h88", TELEON PLUS HD
-https://vdo.mediacp.eu:3572/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEghw5F64DhVZzuzyE7isfDMHnCL9DXhi4giZ2MFJAxPRxz62tXDGZsfrdO42dKfSmFM_mV9Rb4uViaWjc4q6pQEAVnd7ZrYD1rkZR_8nebpxC_g3z0f42nkctq8YrgL0173obSchapJ6Uu_8H32XLC7px_h-mpN1TudjxOciLM1j5O0GGXq1RJtTOVz0A=s90", AKSiYON HD
 https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgmL9eO2w9xPpkA8vdSQ-xLte0b7MxWNPVUU2t8NIdUWI26ArZQD1VAwZS_LvUhc9P1ptjxkYnCgQZ5Tx0o4KnLwv6UmUFA5BrqW8eWhgpCjE_mpptaVvAeZDfv4StEjB9w40wmLhYMXLNUtedb8RDtFv9V7_iDcWG6sHtqyWEoLzAeeWP1c40NzKqT1A=s90", KOMEDi HD
@@ -109,18 +105,10 @@ https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
 https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgQvz3hctdG_cKo7h7yqDv9dl_sNvCzKjnWgF5aE5btBp6OmAcUl3EPOUSmiBibgMDttHNVWSNqlkher-Z1rpZ-LmhGqvioUfGGLulo_UrS-WLMkMa_E0zm5w_hUdheXYvW_aYhfTTXsLVKLVHDSkH_TG2nv9QeqIOCWWVqHKiQbelQMh7d6MZeYNR7QA=s90", KiDS TURK HD
 https://mn-nl.mncdn.com/blutv_cocuk_dvr/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-30kAqW268KU/YOlWcZiAthI/AAAAAAAAUKA/IBWcJ6zGDDsOn4HRToL7Xq9pvYv2t6_jQCLcBGAsYHQ/s90/SUPERTURKTV.png", SUPERTURK HD [18:30-02:00 ARASI YAYINDA]
-http://cdn10-superturkhd.yayin.com.tr/superturkhd/superturkhd/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-Up_rBE4YMmQ/YS87JXNOl9I/AAAAAAAAUYA/xTzfFwrpzvYqhxVmQYq8Pwn_Njxpa2uHACLcBGAsYHQ/s90/SABANTV.png", SABAN TV HD
-http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-ToiEd9fW47Y/YJHXNf_q1iI/AAAAAAAATYI/v4e40jHefYINsQY_VqdGTktFR2hEZcOnwCLcBGAsYHQ/s90/SUNAL1.png", KEMAL SUNAL 1 HD
-http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-zSLk311bXVs/YJHXNRU84OI/AAAAAAAATYM/c9k8s8IMLfU-opxyJoyEt3N-j_RS2Iy5wCLcBGAsYHQ/s90/SUNAL12.png", KEMAL SUNAL 2 HD
-http://145.239.37.125:20458/sabantv2/sabantv2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-W5O2Y0LJtis/YJHXNSZzr3I/AAAAAAAATYQ/ng-IqjZSl-krFDgMgkRbZxVeG5UlTMvjgCLcBGAsYHQ/s90/SUNAL123.png", KEMAL SUNAL 3 HD
-http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-W5O2Y0LJtis/YJHXNSZzr3I/AAAAAAAATYQ/ng-IqjZSl-krFDgMgkRbZxVeG5UlTMvjgCLcBGAsYHQ/s90/SUNAL123.png", KEMAL SUNAL 4 HD
-http://145.239.37.125:20458/sabantv4/sabantv4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgUrLg5XcIauq6O7W3LjhihrmUelfr3ECY3QfMF_gcEK-KUI8CROU0o077HmiCgY8RITTC5hifChbimcYW_9GVGGmCnGHerOwpaYmc8vubj09R2eKJ_QFULxUx_wDtU-E26B8DkroLLS08R_5qzpmPy5K_2ZRI--E3OIbGEetpnu1OdIU2J_X_dv5Qr0g=w90-h81", CINE PLUS 2 HD
+https://vdo.mediacp.eu:3007/stream/play.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhjQDOESjtqq2dxRpk9qZFxktvFRqBPEuiZ0SvPe5DxXEAV1OK_cDroIr1VQPtSgMhj2z1YXIaQdT1A9gaa7Iq0VhGRns7artco8LpuUUlpxA-JPyd7sns2M_4LbfoR-pHE22qrwkGtGGN82hGei_ujD6o8LYuYCMaFM2-SfY8nTu-3stSSJFUdnfZ-tA=s120", TELEON HD
+https://vdo.mediacp.eu:3575/stream/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon KEMAL SUNAL TV
 http://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist_w1091739803.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-2Ezm0SY6JCY/YN288_YKFsI/AAAAAAAAUIw/6tiFlsrlm0AuMPU-y-BTYNXXoCDXndorgCLcBGAsYHQ/s137/V%25C4%25B0ZYONTV.png", Vizyon SENER SEN TV
@@ -145,8 +133,6 @@ http://145.239.37.125:20458/aktif/aktif/chunklist.m3u8
 http://145.239.37.125:20458/akkontv/akkontv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjnRe8DDx8GhxjslRbpS8zczOujVO9r5fH06pZHGKjU96CNS5XiKfZUs_XD5dGMb8BkZiXmfoWKeyBjoNeGowlfpHLV80pz411xjrMrOBLuNqmBddQFSErt-qggvp7w4192OkJXWTKoZI0h7hTSI2PK6wzLn6q9EJsOGesgfNFPMAlfgDObM9j4MsXMdQ=w179-h71", ALMANYA TV
 http://fidece38941.ozelip.com:2052/almanyatv/almanyatv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-3FkNlrjkzxE/YQEh9PLuSaI/AAAAAAAAUO4/KsntfaqYgkIoTO_9BoSnp9xK8ChMHcPqgCLcBGAsYHQ/s320/armonilogo.png", ARMONi TV
-https://yayin.haber100.com/P418357507/armonitv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9cL796qgqmE2H4c1Z5Ut41fX9xHohjxIQoKCYnCJSvdIEdEvA8rpny5MvAaNmM9tZbqiRBPacWCxDNY9cv8BzSeNud5gu8FRXY2m9kSvqEFG051whA1N1kJqGp_QYQgIrls7Ronqjq8WKHFb6Auft3GKcEX3ooa8d9w5iT-lSKAMXZMX6Dl-R7TBy4A=s176", ANKA TV
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEiDT_OHQ7BZ9OZiC6jL6SjPjLEzIeY8FgOiNgLMUbArIZ3ZktmUKGNQI3pIuOVe7tmnOb6tBgA2NjHpvC0QkiVhq7zs972aQzhAGekVLBabDXaCbATVcC4H62TjwKr4FvBlL6VTEjwJbp2cIlpVUBsS32-RLwdem0J4LasSMM7cf189_8KXM9LOVHgZmg=s176", ANKA TV MiSKET
@@ -159,8 +145,6 @@ http://antalya.tvizlehd.com/live/sabantv.m3u8
 https://host.onlineradyotv.net:1936/cine5/cine5/chunklist_w939928983.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwwvL7O9d36pvJDHnI4CRrvMGWowlSNsXc2zHgxqyaP2_2fUhmCUUei51Jx55GBi0zmZy4I3ZRs0oVKFBBFSGzkjKxOi2P7FewGCNynYDhxRjQz8sRoFptbDMczcrxPwPMiJidnsO-18KkOuD0HwYvWTr2_F3KfcHDlBNtWo8KZsGmsGfAyCwaKdRT6A=w102-h97", DURAK TV
 http://145.239.37.125:20458/duraktv/duraktv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-85zjzoSaSCg/YS4hFYcVh7I/AAAAAAAAUXE/ovonSg2DKyMybaw_j6DxNU1EJxAaTd4DACLcBGAsYHQ/s90/cinema%2Btv.png", CINEMA SINEMA TV
-http://fidece38941.ozelip.com:2052/sinematv/sinematv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-syUBlv53CP4/YJAXaf6ywiI/AAAAAAAATVc/r2L2lt_0sWUylbaMRgG1QtY6t9r_Tl_kQCLcBGAsYHQ/s320/ctr.png", CLUB TURK TV
 https://5be5d840359c6.streamlock.net/clubturktv/clubturktv/chunklist_w1749898596.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-uOVF0Gfzw8c/YHIRflQFgyI/AAAAAAAASiY/UgAzFTPMixwATMLP20JXQ0eZENCVSObvQCLcBGAsYHQ/s337/dramad.png", D DRAMA HD
@@ -171,7 +155,7 @@ http://145.239.37.125:20458/farkturktv/farkturktv/playlist.m3u8
 https://fortunacdn.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-MZQrGBNN8Ew/YTPRC-lXLAI/AAAAAAAAUYw/RvlO7sCpeAsHG7Kda5IfZPlFvdGkLZvPQCLcBGAsYHQ/s90/HAYRANTV.png", HAYRAN TV HD
 http://cdn1-hayrantv.yayin.com.tr/hayrantv/hayrantv_1080p/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://intisad.com/intisad_images/logo.png", iNTİSAD TV HD
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://intisad.com/intisad_images/logo.png", INTISAD TV HD
 https://host.onlineradyotv.net:1936/intisadtv/ngrp:intisadtv_all/chunklist_w1451397178_b1596000.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhGokNbp3GKVzFDQMKeXpwbTNR-5RUcW29xcK0xlF-TQZKdBrVSVSj3xvQ20txCzdDqEQ4rGo7aGQX7DNyCab4fLx9xt5C3Ce0RbUzUnTzON8pjH1hkx1B0ZQZVYmvQ-KncY4mo9vFdmvEFxTWbSj30qSYtuzXdLyc6t4FaseaKxXAzNW6b26P76LAUag=w137-h52", iSViCRE TV HD
 http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
@@ -219,27 +203,27 @@ http://145.239.37.125:20458/uluslar/uluslar/playlist.m3u8
 http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-bx0rRUWn2yY/XrQoySUd1CI/AAAAAAAAM1U/WKmSOXvlDEc3MBtkGP8WGubsORsr4Dj1ACLcBGAsYHQ/s200/viyanatvlogo.png", ViYANA TV HD
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEje3AN9pZP2a1WPsrerZ-P3o5c9uVSfVTXvfnIAOrQRnoOk0Bhxn-Jo89Qqx2zUiCPAHv7ezlHta6eGHWKEyuP2xHPX1dUR0_mz5T-Vv1mYIACdSTVoi7e4Muk9P3O7ZkYDls5uuDEnSJqRi1zcZLcu5N7UB7rskYnzcf7fKyfc13IJm74aTZJYjacuqQ", WAYKING TV SPORT
-http://51.210.199.10/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-pvjwt1RI81I/YGB7wocEAxI/AAAAAAAASTg/sNgoq7Hc1rss275uy3V_v3mgCei3sUkdQCLcBGAsYHQ/s90/WORLD1.png", WORLD BELGESEL TV
 http://sabantv2020.ozelip.com:8080/belgeseltv/belgeseltv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgSQ8nHAZtxj7-j3q6G7SZxrhD8sSYH-nIGppeHlY1wnI1c9yBAPTybck6lsYGQK8hg6q-o0jUFAM3fpWIohAwjVMIX_N40jpG2iK3jvHONbiDEd5CdijBgUES7JYfJlbmWsVAir1l2MZsRNHLcOPBKokH3YPOHRlhIw0xRLRjCn2OeVYcPDozkKUHaKw=w128-h100", HABiTAT TV HD
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEje3AN9pZP2a1WPsrerZ-P3o5c9uVSfVTXvfnIAOrQRnoOk0Bhxn-Jo89Qqx2zUiCPAHv7ezlHta6eGHWKEyuP2xHPX1dUR0_mz5T-Vv1mYIACdSTVoi7e4Muk9P3O7ZkYDls5uuDEnSJqRi1zcZLcu5N7UB7rskYnzcf7fKyfc13IJm74aTZJYjacuqQ", WAYKING TV SPORT
+http://51.210.199.10/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgSQ8nHAZtxj7-j3q6G7SZxrhD8sSYH-nIGppeHlY1wnI1c9yBAPTybck6lsYGQK8hg6q-o0jUFAM3fpWIohAwjVMIX_N40jpG2iK3jvHONbiDEd5CdijBgUES7JYfJlbmWsVAir1l2MZsRNHLcOPBKokH3YPOHRlhIw0xRLRjCn2OeVYcPDozkKUHaKw=w128-h100", HABiTAT TV HD
 http://antalya.tvizlehd.com/live/habitattv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR" logo="https://1.bp.blogspot.com/-b-377Wbx65I/YFX5_3uEMrI/AAAAAAAASBk/VbP-JCLQcjYagUe_cbHG9wx7f6_LKcZAACLcBGAsYHQ/s0/L%25C4%25B0FETV.png", LiFE TV HD TR
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b-377Wbx65I/YFX5_3uEMrI/AAAAAAAASBk/VbP-JCLQcjYagUe_cbHG9wx7f6_LKcZAACLcBGAsYHQ/s0/L%25C4%25B0FETV.png", LiFE TV HD TR
 http://yerelmedya.tv:1935/lifetv/bant1/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="1092" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR", TRT BELGESEL
+#EXTINF:0 type="stream" channelId="1092" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR", TRT BELGESEL
 https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
-#EXTINF:0 type="stream" channelId="3092" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR", TRT BELGESEL HD
+#EXTINF:0 type="stream" channelId="3092" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR", TRT BELGESEL HD
 https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live_720p2000000/index.m3u8
-#EXTINF:0 type="stream" channelId="3092" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR", TRT BELGESEL FHD
+#EXTINF:0 type="stream" channelId="3092" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR", TRT BELGESEL FHD
 http://213.115.248.46:9000/TR_-_TRT_BELGESEL_HD_PLUS/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673", TGRT BELGESEL
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673", TGRT BELGESEL
 https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="MOVIE PREMIUM 2" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673" tvg-country="tr", TGRT BELGESEL YEDEK
+#EXTINF:0 type="stream" channelId="-1" name="MOVIE PREMIUM 2" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/B/sd/13868/Thumbnail.png?v=636948475190522673" tvg-country="tr", TGRT BELGESEL YEDEK
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR" logo="https://1.bp.blogspot.com/-Pipv47he75Y/X0Dv5p0vQgI/AAAAAAAAOac/bFNg6ZBSojIPE69nSUfrYPDWrvQis4HhgCLcBGAsYHQ/s0/Yabantv_logo.png", YABAN TV HD
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-Pipv47he75Y/X0Dv5p0vQgI/AAAAAAAAOac/bFNg6ZBSojIPE69nSUfrYPDWrvQis4HhgCLcBGAsYHQ/s0/Yabantv_logo.png", YABAN TV HD
 http://yayin3.sanaltv.com:1935/live1/yabantv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_ULUSAL_BELGESEL_KANALLAR" logo="https://1.bp.blogspot.com/-Pipv47he75Y/X0Dv5p0vQgI/AAAAAAAAOac/bFNg6ZBSojIPE69nSUfrYPDWrvQis4HhgCLcBGAsYHQ/s0/Yabantv_logo.png", YABAN TV FHD
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELGESEL_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-Pipv47he75Y/X0Dv5p0vQgI/AAAAAAAAOac/bFNg6ZBSojIPE69nSUfrYPDWrvQis4HhgCLcBGAsYHQ/s0/Yabantv_logo.png", YABAN TV FHD
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist_w192048208.m3u8
 #EXTINF:0 type="stream" channelId="40" group="SUPERSATFORUM_COCUK_TV", Cartoon Network
 http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
@@ -260,7 +244,7 @@ http://antalya.tvizlehd.com/live/minikacocuk.m3u8
 #EXTINF:0 type="stream" channelId="1059" group="SUPERSATFORUM_COCUK_TV", TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="1059" group="SUPERSATFORUM_COCUK_TV", TRT COCUK FHD
-https://mn-nl.mncdn.com/blutv_trtcocuk_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_trtcocuk2/live.m3u8
 #EXTINF:0 type="stream" channelId="1059" group="SUPERSATFORUM_COCUK_TV", TRT COCUK HD
 http://iptvmasterlink.dyndns.org:8080/Entry/trtcocukhd_yeni/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1080" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", TRT HABER
@@ -277,8 +261,6 @@ https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_haberturk_dvr/live.m3u8
 #EXTINF:0 type="stream" channelId="3081" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", HABER TURK FHD
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
-#EXTINF:0 type="stream" channelId="3081" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", HABER TURK SD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/130.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://www.dsmart.com.tr/epg/images/0x60/5c6e4d04cfef0b613d9fcec2", HABER GLOBAL HD
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live_720p2000000/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://www.dsmart.com.tr/epg/images/0x60/5c6e4d04cfef0b613d9fcec2", HABER GLOBAL HD YEDEK
@@ -295,8 +277,6 @@ https://halktv-live.ercdn.net/halktv/halktv_1080p.m3u8
 https://mn-nl.mncdn.com/blutv_halktv2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/0x0/5afecfae058d0217a0b36d70", HALK TV SD
 http://antalya.tvizlehd.com/live/halktv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://1.bp.blogspot.com/-DFggH1Gt9EU/X520XLD1a0I/AAAAAAAAPdw/d_oAtipUWVwFh7uzdg6XMNT9QYrhxjrFQCLcBGAsYHQ/s400/KRT%2BLOGO.png", KRT FHD
-http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://1.bp.blogspot.com/-DFggH1Gt9EU/X520XLD1a0I/AAAAAAAAPdw/d_oAtipUWVwFh7uzdg6XMNT9QYrhxjrFQCLcBGAsYHQ/s400/KRT%2BLOGO.png", KRT TV SD
 http://antalya.tvizlehd.com/live/krttv.m3u8
 #EXTINF:0 type="stream" channelId="3083" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", KANAL B HD
@@ -313,8 +293,8 @@ http://iptvmasterlink.dyndns.org:8080/Tele1/playlist.m3u8
 http://iptvmasterlink.dyndns.org:8080/Tv5/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 HD TR
 https://mn-nl.mncdn.com/blutv_tv1002/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 FHD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/136.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://1.bp.blogspot.com/-A_LgNRVaWwI/YALg0jc-51I/AAAAAAAAQWc/6uv9TAxvjpUIkXCgoad5o9nN6qkLaW20wCLcBGAsYHQ/s320/TV100TR.png", TV 100 SD TR
+http://antalya.tvizlehd.com/live/tv100.m3u8
 #EXTINF:0 type="stream" channelId="1094" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://1.bp.blogspot.com/-vDdVJAy7heA/XmyqU6m_msI/AAAAAAAAKN8/y2XUOUndCDcYIDSUekAjzZgyCM0_d6sAQCLcBGAsYHQ/w945-h600-p-k-no-nu/dGYZIpT3_400x400.png", YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 type="stream" channelId="1094" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", YOL TV HD
@@ -371,12 +351,14 @@ http://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673
 http://213.115.248.46:9000/TR_-_A_PARA_HD_PLUS/index.m3u8
 #EXTINF:0 type="stream" channelId="4017" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", A PARA SD
 http://antalya.tvizlehd.com/live/apara.m3u8
+#EXTINF:0 type="stream" channelId="3075" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", Bloomberg HT
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:0 type="stream" channelId="3075" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", BLOOMBERG HT HD
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_bloomberght2/live.m3u8
 #EXTINF:0 type="stream" channelId="3075" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI", BLOOMBERG HT HD YEDEK
 https://tv.ensonhaber.com/tv/tr/bloomberght/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://1.bp.blogspot.com/-ldTXkCqEOZQ/X3Lqg1bvrkI/AAAAAAAAPAQ/jB050CCHGrYBvykmWHLeM0ZHOHcYp8ZsQCLcBGAsYHQ/s0/Business_Channel_T%25C3%25BCrk_logosu.png", BUSiNESS CHANNEL TURK HD
-https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist_w1503180666.m3u8
+https://59cba4d34b678.streamlock.net/canlitv/businesschannelturk/chunklist_w428481784.m3u8
 #EXTINF:0 type="stream" channelId="4018" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5c63c377866ac30cbc2ad843", EKOTURK FHD
 https://mn-nl.mncdn.com/blutv_ekoturk2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_HABER_EKONOMi _KANALLARI" logo="https://finansturktv.com/images/logo.png", FiNANS TURK
@@ -386,9 +368,9 @@ http://213.115.248.46:9000/TR_-_A_SPOR_HD_PLUS/video.m3u8
 #EXTINF:0 type="stream" channelId="3089" group="SUPERSATFORUM_SPOR_SiFRESiZ", A SPOR YEDEK
 http://antalya.tvizlehd.com/live/aspor.m3u8
 #EXTINF:0 type="stream" channelId="1060" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-YyzG57Vt_xo/XsZOOWlmsPI/AAAAAAAANc0/FOtjkTG1IbMO4Dbr8xThx_Jm3OTQJGP9gCLcBGAsYHQ/s200/trtspor.png", TRT SPOR FHD
-https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="1095" group="SUPERSATFORUM_SPOR_SiFRESiZ", TRT SPOR HD
-https://mn-nl.mncdn.com/blutv_trtspor_dvr/live_720p2000000/index.m3u8
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:0 type="stream" channelId="1060" group="SUPERSATFORUM_SPOR_SiFRESiZ", TRT SPOR SD
 http://antalya.tvizlehd.com/live/trtspor.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://1.bp.blogspot.com/-D5JlFpTA-uc/YKzXcrgwqlI/AAAAAAAATwo/ns9zZOxwIY0VVKoOAy-muptkhJShrO_wQCLcBGAsYHQ/s118/TRT.png", TRT SPOR YILDIZ
@@ -402,7 +384,7 @@ http://antalya.tvizlehd.com/live/tivibuspor.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_SPOR_SiFRESiZ" logo="https://www.canlitv.dev/poster/bein-sports-haber.png", beIN SPORTS HABER
 http://antalya.tvizlehd.com/live/beinsporthaber.m3u8
 #EXTINF:0 type="stream" channelId="3086" group="SUPERSATFORUM_SPOR_SiFRESiZ", GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2128000_sltur.m3u8
 #EXTINF:0 type="stream" channelId="1090" group="SUPERSATFORUM_SPOR_SiFRESiZ", FB TV
 http://antalya.tvizlehd.com/live/fbtv.m3u8
 #EXTINF:0 type="stream" channelId="3088" group="SUPERSATFORUM_SPOR_SiFRESiZ", SPORTS TV HD
@@ -455,22 +437,10 @@ https://mn-nl.mncdn.com/blutv_trtmuzik2/live.m3u8
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="888" group="SUPERSATFORUM_MUZiK_iPTV", TMB
 http://antalya.tvizlehd.com/live/tmbtv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-tZpj6cSErrk/YA38AXM029I/AAAAAAAAQiU/6-tWGnfMGY0erJGVT-GYtYb-TH6Un95BwCLcBGAsYHQ/s320/arabest.PNG", ARABESK TV
-https://yayin.santraltr.com/hls/arabeskyeni.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-QsLVMi2CWA8/YJo9Oj4pGCI/AAAAAAAATew/rjU9Nh0VxpQxBDI-S0yA1X0E_DvB7yhWQCLcBGAsYHQ/s150/armatv.png", ARMA TV
-https://yayin.santraltr.com/hls/arma.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-5TZvwZNa2To/YJo9OySHLaI/AAAAAAAATe0/L599x2_Ezfs8HMozTRqpVX4oSflwQOdNQCLcBGAsYHQ/s150/aviva.png", AViVA TV
-https://yayin.santraltr.com/hls/vivatv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV", DOST MUZiK TV
-https://yayin.santraltr.com/hls/dost.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-92yFp1jINRg/Xmyu8eIVPCI/AAAAAAAAKO4/P6dxSQrCCFEHQyRMht5VVK997LqBElIHACLcBGAsYHQ/w945-h600-p-k-no-nu/DAMARTV.jpg", DAMAR TV
 http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-RGoswlnXvRM/YGre0YXcOyI/AAAAAAAASc0/EyL0MSZ174o71DhzZDKhg9zgxi2D27OXwCLcBGAsYHQ/s187/DEMOTV.png", DEMO TV HD
 http://fidece38941.ozelip.com:2052/demotv/demotv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-39SR6WaVwhk/YCWMwWBbniI/AAAAAAAAQ-A/3bNr32d42doDOWLQiHWkoSL_P-0OkmK9ACLcBGAsYHQ/s0/ezotv.png", EZO TV
-https://yayin.santraltr.com/hls/ezo.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-51cmBA2bG9c/YH7AvG0IJkI/AAAAAAAASzk/-d-IMm8-CzgfyUiKISftVDJWgl5KR9UxwCLcBGAsYHQ/s150/GENC.png", GENC SMS TV
-https://yayin.santraltr.com/hls/genctv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-oQOCxFNEEcw/YGre03Uu_FI/AAAAAAAASc8/aVv_AWMcHsUAAeMWI1yXkPmQYOdaKYBdQCLcBGAsYHQ/s386/GENCKRALTV.png", GENC KRAL TV HD
 http://fidece38941.ozelip.com:2052/genckraltv/genckraltv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="1087" group="SUPERSATFORUM_MUZiK_iPTV", FiNEST TV
@@ -487,18 +457,6 @@ http://modafm52300.ozelip.com:28008/modafm/modafm/chunklist_w1385220734.m3u8
 http://fidece38941.ozelip.com:2052/palatv/palatv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-KMd8hhFCAJk/XoZ16QvL8uI/AAAAAAAALSU/xzGmwNAZkj8wICnHyn_2ByfsMIiZMwikgCK4BGAsYHg/s320/RADYO%2BKULUP.png" size="Small", RADYO KULUP TV
 http://win1.yayin.com.tr/radyokulup/radyokulup/media.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV", SON ViZYON TV
-http://edge1.socialsmart.tv/vizyon52/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-nbzhZAoaM_w/YA36FV-nlkI/AAAAAAAAQhk/97lctqxot-IOodmRY6jIl9HWarXHyNQugCLcBGAsYHQ/s0/s%25C4%25B1latv.png", SILA TV
-https://yayin.santraltr.com/hls/silatv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-ENi5FKbetgE/YA36F9ut1dI/AAAAAAAAQho/8pg53gixNmckaLipkS4VzNj1O0GDNYBpgCLcBGAsYHQ/s320/tv%2Bsms.png", TV SMS CLUB
-https://yayin.santraltr.com/hls/tvsms.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-CHuheW4Dlew/YCWMw3xCqsI/AAAAAAAAQ-M/6IYp0Ft1YZgVPFVZXeDFdw0fZOltSnHvACLcBGAsYHQ/s0/toppoptv.png", TOP POP TV
-https://yayin.santraltr.com/hls/toppop.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-4lEe43qo8pU/YA36GOrIByI/AAAAAAAAQhw/dVf8Gk2fOoM3YeOW3ZdDDKbcDSOi1l44ACLcBGAsYHQ/s0/zeynotv.PNG", ZEYNO TV
-https://yayin.santraltr.com/hls/zeynotv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_MUZiK_iPTV" logo="https://1.bp.blogspot.com/-_8r9DC2zGQo/YLPGsCeO8tI/AAAAAAAAT1U/Bv_XMxNPz8s2GIHakHrZpanCUR3VLC4yACLcBGAsYHQ/w124-h83/yarentv.PNG", YAREN TV
-https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="1066" group="SUPERSATFORUM_GENEL_ICERIK_YASAM_EGLENCE" logo="https://1.bp.blogspot.com/-25XR9u9p_U8/YIs0e4etZbI/AAAAAAAATHE/XQR9XacNrKknPp_kqoUz74xW7kFPTgP1wCLcBGAsYHQ/s320/VOLKANTV.png", AKILLI TV
 http://fidece38941.ozelip.com:2052/akillitv/akillitv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_GENEL_ICERIK_YASAM_EGLENCE", AKTUEL DERGI TV
@@ -600,7 +558,7 @@ http://yerelmedya.tv:1935/diyartv/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://1.bp.blogspot.com/-zYs2VE6WfXE/YHwXWgturdI/AAAAAAAASwg/UxfbZEkHn6ovHeWhbUOsL3FRFQNyoZmlACLcBGAsYHQ/s220/FMTV.png", FM TV
 http://antalya.tvizlehd.com/live/fmtv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEiXvWX7VZzg7MYJXxq7sEWep-aRJiyIsSadY1eKR_ClGbh0SkK-Ib_ieUmrj5obAJFnqO7K5AE1Ee6x7hvwYgyPSh9piElUN39S4OPxOo4PYuxZQzUo6en-8x4tzTdOCy9k5UVa7Yles6yJU04QRUJItl3YtCV9QBOzECFZes9XyBvR1AnH5ZBuRnaAjQ=s82", GONCA TV
-http://izmir.tvizlehd.com/live/goncatv.m3u8
+http://antalya.tvizlehd.com/live/goncatv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="http://www.on4.com.tr/images/ON4LOGO.png", KANAL ON 4 TV
 http://yayin.netradyom.com:1935/live/on4/playist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://1.bp.blogspot.com/-AhDuvPWBxls/X6ABZMd_iuI/AAAAAAAAPhA/7_hvuylNckQXPqvVLI9WRj1vP8-XqpoxwCLcBGAsYHQ/s0/kanal12.png", KANAL 12 TV
@@ -612,15 +570,15 @@ https://mn-nl.mncdn.com/blutv_kontv2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgpOn6TqN3P7tCxQMMd_D99yq7gYlvXnpz_XeYY7Jj-3bsAoTpKyEm4UZ3gTBMtygW6u7hvjuaQwetmaeqgkpZEp9IXgOuRntnXMkdeaYgtVTZlTkmkaHh9p3nh3WDxESqNY9IAxwjIlUyXRm2WemEOg58PNRnXye26qSY39qUtSkBGHjUeLwICc6o6tQ=w140-h43", KANAL 42 KONYA
 http://iptvmasterlink.dyndns.org:8080/Kanal42/tracks-v1a1/index.m3u8
 #EXTINF:0 type="stream" channelId="1064" group="SUPERSATFORUM_DiNi_KANALLAR", KUDUS TV
-https://yayin.kdsmedia.org/981680400/kudustv/chunklist.m3u8
+https://yayin30.haber100.com/live/kudustv/chunklist_w1507895771.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://1.bp.blogspot.com/-FmisM8-Akdg/XmpwaIu_4PI/AAAAAAAAKLU/BaUWiXYih3QcorMGuRvCTjEwqZYVe6rkgCLcBGAsYHQ/s200/LALEG%25C3%259CL.png", LALEGUL TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://pbs.twimg.com/profile_images/496366274901864448/HCpiwgSX_400x400.png", REHBER TV
-http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="1065" group="SUPERSATFORUM_DiNi_KANALLAR", SEMERKAND TV HD
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEiQbWsiq78cEalkY__0NCS6yDAEqMRY4h1G2M6726gRdans9ajqtsyONEo4C-lql87Ogt-zYxxnDpVolCp5ONeAH6KE-u7pxylljLLqLCWzRDFKBh01KWLRUN7AFH9X4H1U09p5EN3BZBCz300t2PparGqgCCi4OJ7a9p7hdZK-ZirZl9XSY8sYLnvNyQ=s82", VAV TV
 http://antalya.tvizlehd.com/live/vavtv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR", VAV TV FHD
+https://59c7ea6bec1c6.streamlock.net/filbox/vavtv.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c03d866ac31da06187cb", VUSLAT TV HD
 http://waw1.artiyerelmedya.net:1935/vuslattv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_DiNi_KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/5dc2c03d866ac31da06187cb", VUSLAT TV HD YEDEK
@@ -646,7 +604,7 @@ http://antalya.tvizlehd.com/live/tarimtv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TARIM_KANALLARI" logo="https://1.bp.blogspot.com/-a5wRa9TK_bA/YBprVDt4yKI/AAAAAAAAQ4E/2FqIrcK_k-Iwki52rhPtLHtbTnRE5zcLgCLcBGAsYHQ/s0/toprak.png", TOPRAK TV
 https://59cba4d34b678.streamlock.net/canlitv/topraktv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjlABB-wZD0zSZY4RE-_s4H2wTBbQxxZX2_FNc12V-Z5jjOEKJFlboyihefGREAzI19Ooi7-6GgbwPAMdALf_DA1Ucrk4ZL3Y0ZBkDJ2wQW5w3_D-62j69EpX2wJ-uA0cVgBkolyaZMbYBzDBzETesct916WQRHLCRP1hLlc3jkE-UTiegWgcx6qyPPYQ=s82", 4 EYLUL TV
-http://izmir.tvizlehd.com/live/4eylultv.m3u8
+http://antalya.tvizlehd.com/live/4eylultv.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="SU TV" group="SUPERSATFORUM_YEREL_iPTV" tvg-country="tr", ANADOLU DERNEK TV
 http://antalya.tvizlehd.com/live/anadolutv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV", ANADOLU DOST TV
@@ -659,7 +617,7 @@ http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/aksutv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-32SZvyFtR20/X32NpjIllcI/AAAAAAAAPLA/Zzz_oyCYNtIMcWSiF4sWI47XqVeACPRUwCLcBGAsYHQ/s0/alanya%2Batv.jpg", ALANYA ATV
 https://broadcasttr.com:446/alanyatv/bant1/chunklist_w17033747.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://www.alanyapostatv.com/wp-content/uploads/2019/03/ap_logo_trnsp_red.png", ALANYA POSTA TV
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV", ALANYA POSTA TV
 http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-bKnJl7ZuDvg/X5X1hbOA48I/AAAAAAAAPZg/BPNr282NmrEpVMbaxP2RH0e1vFiubOpCgCLcBGAsYHQ/s0/arttv.jpg", ART TV AMASYA
 https://59cba4d34b678.streamlock.net/canlitv/arttv/chunklist_w1727396284.m3u8
@@ -716,11 +674,11 @@ http://yerelmedya.tv:1935/etv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-qnvsSfKZkaE/XosbQ_wpk5I/AAAAAAAALZ8/sw51BWqvh7IOBqRYfareRdwGp6lrY2snACLcBGAsYHQ/s200/ETV.PNG", ETV MANiSA
 http://broadcasttr.com:1935/manisaetv/bant1/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhiJ5PqwtQS29lNO3YcgUxlo66OlklQiMQyJSvofRj3imjyDA23tnpw32Uf5eIyilMHJ8xI6tnWWhkkbJY_emIDAS7rYEBNq1tEbB4Gey9KGj-dUFdWGtw3jVpb77665xfYyCVDOVyaFs9GKcwoQgBjCNOrv3BSOxlTRhpQuwYDdtiH7bES3WwK3ONjeg=s82", ERT SAH TV
-http://izmir.tvizlehd.com/live/ertsahtv.m3u8
+http://antalya.tvizlehd.com/live/ertsahtv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-f1jj8mK8DoI/X6Bh57PQOeI/AAAAAAAAPhw/DWMTdXS7NGckPDJpL8K4etsaZx5fcq-TwCLcBGAsYHQ/s0/cropped-LOGO_-1.png", EGE TV
 http://yerelmedya.tv:1935/egetv/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-wwWfyNboH60/YISKnOvndqI/AAAAAAAAS9Q/dozsP5zGuNsy8GF0LEOu5ttYu2OCBB-qwCLcBGAsYHQ/s0/ekin.png", EKiN TURK
-http://izmir.tvizlehd.com/live/ekintv.m3u8
+http://antalya.tvizlehd.com/live/ekintv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-0oRmd7Rxwkw/YA8xkSGzF6I/AAAAAAAAQlk/mLp479MmK-QY9kHfiQJenE5nQs2r20kewCLcBGAsYHQ/w190-h190/ege%2Bturk.jpg", EGE ATURK TV
 http://live.arkumedia.com:1935/egeaturktv/egeaturktv/chunklist_w1819027327.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-0oRmd7Rxwkw/YA8xkSGzF6I/AAAAAAAAQlk/mLp479MmK-QY9kHfiQJenE5nQs2r20kewCLcBGAsYHQ/w190-h190/ege%2Bturk.jpg", EGE ATURK TV YEDEK
@@ -753,8 +711,6 @@ http://yerelmedya.tv:1935/hunattv/bant1/playlist.m3u8
 http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV", KANAL EGE
 http://yerelmedya.tv:1935/kanalege/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV", KONYA SUN TV
-http://168.119.212.166:8081/hls/suntv/1_2/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-0P8KiBJEoo8/X6rrlDxDghI/AAAAAAAAPrM/SaVl4nHqiZ4aArz0bMCsnOidFUKA2fIuQCLcBGAsYHQ/s320/KANAL%2B3.png" tvg-country="TR", KANAL 3
 http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-Q-d4auI31ik/X8fZ8-L3ZNI/AAAAAAAAP_o/Z3CsKg_ikcUoHCyJNY0k-ZcNpOiMcV6YACLcBGAsYHQ/s0/kanal-logoSD.png", KANAL 5 TR
@@ -879,6 +835,8 @@ https://59cba4d34b678.streamlock.net/canlitv/ilketv/chunklist_w1070735460.m3u8
 http://yerelmedya.tv:1935/urfanatiktv/bant1/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-ixODbZD4LdU/YHIKJfVd1OI/AAAAAAAASiA/k6pLIjWk7ZMuw08KaNp12mVF24lfE-83QCLcBGAsYHQ/s460/urfa.png", UR FANATiK TV YEDEK
 https://edge1.socialsmart.tv/urfanatiktv/bant1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV", VAN GOLU TV
+https://cdn1-vangolutv.yayin.com.tr/vangolutv/ngrp:vangolutv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-8ZETT6ASNcw/X6rtovIj1xI/AAAAAAAAPsc/pZvpgfiKKxcqEf20KffuceVHaFwVcbs_QCLcBGAsYHQ/s0/58.PNG", ViZYON 58 SiVAS
 http://yerelmedya.tv:1935/vizyon58/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_YEREL_iPTV" logo="https://1.bp.blogspot.com/-sSVilHN-49o/XtEXV_B8LeI/AAAAAAAANi4/jELXRGpLvBgHy5AfLAw1lGMyciwl15USgCLcBGAsYHQ/s200/ye%25C5%259Filyurttv.png", YESiLYURT TV
@@ -887,7 +845,7 @@ http://yerelmedya.tv:1935/yesilyurttv/bant1/playlist.m3u8
 https://5be5d840359c6.streamlock.net/askontv/askontv/chunklist_w247491047.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELEDiYE_DERNEK_UNiV" logo="https://1.bp.blogspot.com/-8Aigo_3SCVo/YGIkW6PcV5I/AAAAAAAASVg/sJ6UNLD_qE4ByNWcky54LUREY_YT7gOvACLcBGAsYHQ/s317/ALTSO.png", ALTSO WEB TV ALANYA
 https://edge1.socialsmart.tv/altsowebtv/bant1/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELEDiYE_DERNEK_UNiV" logo="http://ibb.tv/img/logos/ibb-tv-logo-white.png", iBB TV
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELEDiYE_DERNEK_UNiV", iBB TV
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_BELEDiYE_DERNEK_UNiV" logo="https://1.bp.blogspot.com/-CqHBAh0-lTc/XovFvazPEoI/AAAAAAAALc0/h9t_aZUdYvI1P-m5dotouqNzHfyMIONnwCLcBGAsYHQ/s200/BODRUM.png", BODRUM BELEDiYE TV
 https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/chunklist.m3u8
@@ -952,17 +910,17 @@ https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_INTERNATIONAL", UYGUR TV NEWS
 https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1333397898.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-3LmQwIZzpTE/X33rnqcGTCI/AAAAAAAAPMM/H_Xdzu7yMKIzLmlm9GqJcyKZctreYRpeQCLcBGAsYHQ/s0/ADATV.png", ADA TV KIBRIS
-http://kuzeykibris.tv/m3u8/tv_ada.m3u8
+http://black.tvizlehd.com/live/adatv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2018/12/BRT-HD-300x217.png", BRT 1 KIBRIS
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-kk0k4uTCK-4/X3MwNNx0EDI/AAAAAAAAPBY/yXNQMYfJgRcqcKh9FMt-ulAw-4sTzyqXACLcBGAsYHQ/s124/BRT2.png", BRT 2 KIBRIS
-http://kuzeykibris.tv/m3u8/tv_brt2.m3u8
+http://antalya.tvizlehd.com/live/brt2.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-xzYZ9Fg751k/XpOikmw4mRI/AAAAAAAALx8/Luu_q9FLALcm4vA_mFeg7NFekWp3guQgQCLcBGAsYHQ/s200/BRT3.png" tvg-country="TR", BRT 3 KIBRIS
 http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-k80eyMVfGeA/X2jF88f43ZI/AAAAAAAAO04/SwPHg4FkdhMj0m4cH_5pXJZT1I7wjYqWwCLcBGAsYHQ/s0/gunes%2Btv.png", GUNES TV KIBRIS
-http://tvgunes.com/webtv/m3u8/tv_gunes.m3u8
+http://black.tvizlehd.com/live/gunestv.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-uYtu_lb_eO4/X2jF-qlwnzI/AAAAAAAAO1M/9tlk-SqoQjwCrs9XZf9nwYMJ3ttD-TXqwCLcBGAsYHQ/s320/ktv%2Bk%25C4%25B1br%25C4%25B1s.png", KTV-KIBRIS TV
-http://46.101.133.224/hls/canli1.m3u8
+https://play.kibrisfm.com/hls/canli1.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-cLX20NrXW8g/X33rnpGXsAI/AAAAAAAAPMQ/xWra-Aoldiool-huSTCcMyZwkXzawIxXQCLcBGAsYHQ/s0/KANALT.png", KANAL T KIBRIS
 http://kuzeykibris.tv/m3u8/tv_kanalt.m3u8
 #EXTINF:0 type="stream" channelId="4004" group="SUPERSATFORUM_KIBRISTV_KANALLARI", KIBRIS GENC TV
@@ -974,7 +932,7 @@ http://mayistv.com:1935/live/mayistv/chunklist_w1986697901.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-k7s02Q2hgmo/X33thxPpz1I/AAAAAAAAPMk/DCt0_-bNJXMYrqxBsHcuhXNgj3EWahZ0wCLcBGAsYHQ/s0/S%25C4%25B0MTV.png", SIM TV KIBRIS
 https://59cba4d34b678.streamlock.net/canlitv/simtv/chunklist_w2002738637.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-DvNvKKQMFRA/X33rnnawVII/AAAAAAAAPMU/tmsjSMpAr3UG4LO4atU_OA-frOCvbJFMwCLcBGAsYHQ/s0/TV2020.png", TV 2020 DiYALOG
-http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
+http://black.tvizlehd.com/live/tv2020.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI" logo="https://1.bp.blogspot.com/-ntya2xOePzo/X3LqhVZvroI/AAAAAAAAPAY/Lsp9tOTeyDM41hg9MZdHA4OykfILl_doQCLcBGAsYHQ/s0/torbatv.png", TORBA TV KIBRIS
 https://59cba4d34b678.streamlock.net/canlitv/torbatv/chunklist_w502688251.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_KIBRISTV_KANALLARI", Sigma TV CYPRUS
@@ -2591,8 +2549,6 @@ http://yayin.yayindakiler.com:4010/;stream.mp3
 http://95.173.162.188:9824/;
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", BURSA FM
 http://yayin.bursafm.com.tr:1055/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", BABA RADYO
-http://37.247.98.7/;stream.mp3
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", CEMRE FM
 http://yayin1.canliyayin.org:8024/;
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", DAMAR FM
@@ -2615,8 +2571,6 @@ http://dinle.kardelenfm.com:2000/;
 http://kralwmp.radyotvonline.com:80/;
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", ISTANBUL FM
 http://45.32.154.169:9300/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", MEGA RADYO
-http://yayin.megaradyo.net:9116/;
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", POWER FM
 http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO D
@@ -2643,3 +2597,5 @@ http://windows.showradyo.com.tr/;
 http://dinle.slowkaradenizfm.com:9578/;
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", TURKU RADYO
 http://radyo.turkuradyo.net:4591/;
+#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR" logo="https://1.bp.blogspot.com/-30kAqW268KU/YOlWcZiAthI/AAAAAAAAUKA/IBWcJ6zGDDsOn4HRToL7Xq9pvYv2t6_jQCLcBGAsYHQ/s90/SUPERTURKTV.png", SUPER TURK RADYO
+http://live-server-2.splitstream.io/7b0acd53-acd9-4e54-a672-f17cc97480f3/tracks-v1a1/mono.m3u8
